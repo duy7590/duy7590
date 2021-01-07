@@ -4,7 +4,7 @@
 - 🔭 I’m currently working with Data Analysis & consulting for big corporates in Finland 
 - 🌱 I’m currently a Master Student in Computational Data Analytics Program at [Tampere University][tuni]
 - ✨ I’m looking to make my hands dirty in data analytics and machine learning
-- ⚡ Fun fact: I love playing basketball and singing karaoke!
+- ⚡ Fun fact: I love playing basketball🏀 and singing karaoke 🎤 !
 
 ### Connect with me:
 
