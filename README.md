@@ -1,6 +1,6 @@
 ## Welcome to my cave! I'm Duy 👋
 
-## I'm a data analyst Catapult.fi 
+## I'm a data analyst  Catapult.fi 
 - 🔭 I’m currently working with Data Analysis & consulting for big corporates in Finland 
 - 🌱 I’m currently a Master Student in Computational Data Analytics Program at [Tampere University][tuni]
 - ✨ I’m looking to make my hands dirty in data analytics and machine learning
